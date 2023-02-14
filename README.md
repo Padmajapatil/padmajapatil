@@ -13,8 +13,8 @@
 
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/Shreyajadhavpatil?style=flat&label=FOLLOWERS) 
-![Profile views](https://gpvc.arturio.dev/shreyajadhavpatil)  
+![GitHub followers](https://img.shields.io/github/followers/padmajapatil?style=flat&label=FOLLOWERS) 
+![Profile views](https://gpvc.arturio.dev/padmajapatil)  
 
 
 - 👨‍💻 I’m currently working on **E-Commerce Apps** and **Development Skills**.
