@@ -80,7 +80,7 @@
 <a href ="https://github.com/padmajapatil" title="Redirect's to padmajapatil Github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=padmajapatil&show_icons=true&locale=en&layout=compact" alt="padmajapatil" />
   </a> -->
-	 -->
+	 
 
   
 
