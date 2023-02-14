@@ -1,8 +1,9 @@
 <h1> Hi there 👋</h1>
 
 <h3>I am padmaja Patil</h3>
-![MasterHead ](https://www.bing.com/th/id/OGC.e358799227826cfa87b038c2bb84381e?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1063314%2fscreenshots%2f3020974%2ftdsocial_dribbble.gif&ehk=gWbAtoMKa6IBNQrdlgIcRclhLHbFvn0hqtM7wQI%2fQrI%3d) 
 
+<!-- ![MasterHead ](https://www.bing.com/th/id/OGC.e358799227826cfa87b038c2bb84381e?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1063314%2fscreenshots%2f3020974%2ftdsocial_dribbble.gif&ehk=gWbAtoMKa6IBNQrdlgIcRclhLHbFvn0hqtM7wQI%2fQrI%3d) 
+ -->
   
 # Hello World !! <img src="https://github.com/Shreyajadhavpatil/Shreyajadhavpatil/blob/main/Assets/Hi.gif" width="30px">
 
