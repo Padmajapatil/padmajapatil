@@ -67,7 +67,7 @@
 
 **Ping me on LinkedIn 📲** : <a href="https://www.linkedin.com/in/padmaja-patil-7ab4b6253">https://www.linkedin.com/in/padmaja-patil-7ab4b6253</a>
 
-<!-- ## **GitHub Trophies :**
+ ## **GitHub Trophies :**
  https://github.com/ryo-ma/github-profile-trophy 
 
  <p align="center">
