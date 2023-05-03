@@ -68,9 +68,9 @@
 **Ping me on LinkedIn 📲** : <a href="https://www.linkedin.com/in/padmaja-patil-7ab4b6253">https://www.linkedin.com/in/padmaja-patil-7ab4b6253</a>
 
 <!-- ## **GitHub Trophies :**
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
+ https://github.com/ryo-ma/github-profile-trophy 
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=padmajapatil" alt="padmajapatil"  />
   </a> 
@@ -87,16 +87,16 @@
 
 <a href ="https://github.com/padmajapatil" title="Redirect's to padmajapatil Github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=padmajapatil&show_icons=true&locale=en&layout=compact" alt="padmajapatil" />
-  </a> -->
+  </a> 
 	 
 
   
 
 
 
-<!-- </p>
+ </p>
 
 <p align="center">
 <a href="">
  <img align="center" src="https://github.com/padmajapatil/padmajapatil/blob/main/Assets/thanks.gif" width="1000px" height="500px" >
-  </p> -->
+  </p> 
